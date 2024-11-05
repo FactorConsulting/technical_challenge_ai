@@ -58,7 +58,7 @@ Your submission will be evaluated based on:
 
 ## Submission Timeline
 - You will have one week to complete the challenge
-- Submit your solution by providing repository access to [technical-review@factor.com]
+- Submit your solution by providing repository access to [rey@factorconsulting.org]
 
 ## Questions
-If you have any questions about the challenge, please reach out to [recruitment@factor.com]
+If you have any questions about the challenge, please reach out to [rey@factorconsulting.org]
